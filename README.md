@@ -1,7 +1,7 @@
 # how-to-create-cpp-project-in-linux
 使用vscode远程连接linux创建C++ CMake项目
 
-# Linux下创建vsode clang CMake C++项目
+# Linux下创建vsode CMake C++项目
 
 
 
